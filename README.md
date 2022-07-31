@@ -1,1 +1,1 @@
-# Synthetic-Fashion-GAN
+# Synthetic-Fashion-GAN 👕
